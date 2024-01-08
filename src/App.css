@@ -23,6 +23,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.form-control{
+  flex-direction: column;
+}
 
 .App-link {
   color: #61dafb;
